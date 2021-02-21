@@ -14,8 +14,9 @@ public class Example2 {
 		System.out.println("Original value of x: " + x);
 		System.out.println(); 
 		
-		var = var /4;
-		x = x /4;
+		var = var /4; // divisão de número inteiro por 4 - resultará em componente fracionário perdido (2)
+		x = x /4; // divisão de x por 4 - resultará em componente fracionário preservado (2.5)
+		
 		System.out.println("var after division: " + var); 
 		System.out.println("x after division: " + x);
 	}
