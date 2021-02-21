@@ -1,4 +1,4 @@
-[![NPM](https://img.shields.io/github/license/tisamira/AprendendoJava)](https://github.com/tisamira/AprendendoJava/blob/main/LICENSE)
+[![NPM](https://img.shields.io/github/license/samiradasilva/AprendendoJava)](https://github.com/samiradasilva/AprendendoJava/blob/main/LICENSE)
 
 # AprendendoJava
 Este repositório tem como intuito divulgar informações e conteúdos educacionais para o aprendizado e revisão de estudos sobre a linguagem Java.
