@@ -6,7 +6,7 @@ public class GalToLit {
 
 	public static void main(String[] args) {
 
-		double gallons; // variável do tipo double contendo o núnero de galões
+		double gallons; // variável do tipo double contendo o número de galões
 		double liters; // variável do tipo double que contém a conversão para litros
 
 		gallons = 10; // representa 10 galões
