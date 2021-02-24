@@ -1,6 +1,6 @@
 package tiposdedados;
 
-public class Fatoriais {
+public class Fatores {
 
 	public static void main(String[] args) {
 
